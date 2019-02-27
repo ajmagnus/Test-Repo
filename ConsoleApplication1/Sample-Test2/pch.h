@@ -6,4 +6,3 @@
 #pragma once
 
 #include "gtest/gtest.h"
-#include "../ConsoleApplication1/Message.h"
